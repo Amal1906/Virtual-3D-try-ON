@@ -1,0 +1,1 @@
+python run_model.py assets/CMU/07/07_02_poses.npz --export_dir results/07_02
